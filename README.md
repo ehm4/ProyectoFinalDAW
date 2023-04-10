@@ -20,3 +20,4 @@ Habrá dos roles, cliente y administrador:
   
 **Diseño de la base de datos:**
 
+![image](https://user-images.githubusercontent.com/91050223/230996943-9ae57a3b-ac68-40b5-8a7f-7a5b52af419b.png)
